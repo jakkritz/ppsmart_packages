@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+author	setup.py	/^    author='jakkrit s.',$/;"	v
+author_email	setup.py	/^    author_email='jakkrit@ppsmartbot.com',$/;"	v
+classifiers	setup.py	/^    classifiers=[$/;"	v
+description	setup.py	/^    description='ppsmart packages utilities collection',$/;"	v
+joke	build/lib/ppsmart/__init__.py	/^def joke():$/;"	f
+joke	ppsmart/__init__.py	/^def joke():$/;"	f
+long_description	setup.py	/^    long_description = fh.read()$/;"	v
+long_description	setup.py	/^    long_description=long_description,$/;"	v
+long_description_content_type	setup.py	/^    long_description_content_type='text\/markdown',$/;"	v
+name	setup.py	/^    name='ppsmart',$/;"	v
+packages	setup.py	/^    packages=setuptools.find_packages(),$/;"	v
+url	setup.py	/^    url='https:\/\/github.com\/jakkritz\/ppsmart_packages',$/;"	v
+version	setup.py	/^    version='0.0.1',$/;"	v
